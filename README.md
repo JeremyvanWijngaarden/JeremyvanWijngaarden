@@ -4,8 +4,6 @@ I'm **Jeremy van Wijngaarden*** — Stationed at
 
 [![Van Schie](https://img.shields.io/badge/Van%20Schie-006935?style=flat-square)](https://vanschie.com)
 
-I'm a tech enthusiast with a strong interest in building useful products, shipping fast, and exploring new ideas. I'm open to collaborating on projects — especially where software, product thinking, and AI meet.
-
 
 ### Connect with me
 
